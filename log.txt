@@ -1,3 +1,4 @@
+PS C:\FlutterApps\my_spouse\llama.cpp> C:\FlutterApps\my_spouse\llama.cpp\build\bin\Release\llama-run.exe "C:\FlutterApps\my_spouse\llama.cpp\build\bin\Release\llama-2-7b.Q3_K_M.gguf" -p "Hello, AI!" --chat-template-file "C:\FlutterApps\my_spouse\llama.cpp\build\bin\Release\chat_template.json" --jinja --verbose -n 100
 Loading modelllama_model_loader: loaded meta data with 19 key-value pairs and 291 tensors from C:\FlutterApps\my_spouse\llama.cpp\build\bin\Release\llama-2-7b.Q3_K_M.gguf (version GGUF V2)
 llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
 llama_model_loader: - kv   0:                       general.architecture str              = llama
